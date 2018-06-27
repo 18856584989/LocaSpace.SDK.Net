@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图层的添加和删除", "图层的添加和删除\图层的添加和删除.csproj", "{FEAE348B-8866-4E2D-8F25-A123BE67B4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAE348B-8866-4E2D-8F25-A123BE67B4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAE348B-8866-4E2D-8F25-A123BE67B4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAE348B-8866-4E2D-8F25-A123BE67B4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAE348B-8866-4E2D-8F25-A123BE67B4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

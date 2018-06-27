@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "元素的添加和删除及属性样式设置", "元素的添加和删除及属性样式设置\元素的添加和删除及属性样式设置.csproj", "{821ADD4F-A518-4FB4-90C4-84349DD11E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "获取要素并且设置显示隐藏", "获取要素并且设置显示隐藏\获取要素并且设置显示隐藏.csproj", "{22E103F4-3CFB-4C4B-BB26-B82E8F460FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "气泡与标注", "气泡与标注\气泡与标注.csproj", "{AD0EB48E-BE17-45A9-8765-C89E57548CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "几何要素添加", "几何要素添加\几何要素添加.csproj", "{21AA5582-4AC8-4A29-9BCB-3B5EC4C687A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821ADD4F-A518-4FB4-90C4-84349DD11E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821ADD4F-A518-4FB4-90C4-84349DD11E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821ADD4F-A518-4FB4-90C4-84349DD11E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821ADD4F-A518-4FB4-90C4-84349DD11E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E103F4-3CFB-4C4B-BB26-B82E8F460FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E103F4-3CFB-4C4B-BB26-B82E8F460FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E103F4-3CFB-4C4B-BB26-B82E8F460FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E103F4-3CFB-4C4B-BB26-B82E8F460FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0EB48E-BE17-45A9-8765-C89E57548CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0EB48E-BE17-45A9-8765-C89E57548CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0EB48E-BE17-45A9-8765-C89E57548CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0EB48E-BE17-45A9-8765-C89E57548CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AA5582-4AC8-4A29-9BCB-3B5EC4C687A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AA5582-4AC8-4A29-9BCB-3B5EC4C687A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AA5582-4AC8-4A29-9BCB-3B5EC4C687A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AA5582-4AC8-4A29-9BCB-3B5EC4C687A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
