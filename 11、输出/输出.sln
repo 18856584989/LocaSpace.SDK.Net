@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26127.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "高清截图", "输出\高清截图.csproj", "{397F0B49-65D2-49B0-AB9C-EAC8A6FF031A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "影像拼接以及无效过滤", "影响拼接以及无效过滤\影像拼接以及无效过滤.csproj", "{7E1891C2-28E5-4F35-A905-6A8B14BD5D5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{397F0B49-65D2-49B0-AB9C-EAC8A6FF031A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397F0B49-65D2-49B0-AB9C-EAC8A6FF031A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397F0B49-65D2-49B0-AB9C-EAC8A6FF031A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397F0B49-65D2-49B0-AB9C-EAC8A6FF031A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1891C2-28E5-4F35-A905-6A8B14BD5D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1891C2-28E5-4F35-A905-6A8B14BD5D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1891C2-28E5-4F35-A905-6A8B14BD5D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1891C2-28E5-4F35-A905-6A8B14BD5D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

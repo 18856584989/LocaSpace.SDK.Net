@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+  <Document>
+    <Placemark>
+      <name>线1</name>
+      <visibility>1</visibility>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          117.074475983648,32.4134376922348,0
+          118.196242122613,32.1163841463161,0
+          118.36393527639,30.9436373985817,0
+          116.854361542655,32.2501291679567,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
+
