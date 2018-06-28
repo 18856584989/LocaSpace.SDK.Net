@@ -5,57 +5,57 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01、HelloWord", "01、HelloWord", "{15963773-1B40-44C8-9279-BAD814D0913A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWord", "1、HelloWord\HelloWord\HelloWord.csproj", "{801454A8-7E30-4BF7-820F-FE78F489361A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWord", "01、HelloWord\HelloWord\HelloWord.csproj", "{801454A8-7E30-4BF7-820F-FE78F489361A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02、图层的添加和删除", "02、图层的添加和删除", "{C17D8282-D6B6-4894-B815-E09950F7B83E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图层的添加和删除", "2、图层的添加和删除\图层的添加和删除\图层的添加和删除.csproj", "{FEAE348B-8866-4E2D-8F25-A123BE67B4D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图层的添加和删除", "02、图层的添加和删除\图层的添加和删除\图层的添加和删除.csproj", "{FEAE348B-8866-4E2D-8F25-A123BE67B4D1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03、元素的添加和删除及属性样式设置", "03、元素的添加和删除及属性样式设置", "{5F195B31-A7EC-4040-96CE-12AC908AD24E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "元素的添加和删除及属性样式设置", "3、元素的添加和删除及属性样式设置\元素的添加和删除及属性样式设置\元素的添加和删除及属性样式设置.csproj", "{821ADD4F-A518-4FB4-90C4-84349DD11E47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "元素的添加和删除及属性样式设置", "03、元素的添加和删除及属性样式设置\元素的添加和删除及属性样式设置\元素的添加和删除及属性样式设置.csproj", "{821ADD4F-A518-4FB4-90C4-84349DD11E47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "获取要素并且设置显示隐藏", "3、元素的添加和删除及属性样式设置\获取要素并且设置显示隐藏\获取要素并且设置显示隐藏.csproj", "{22E103F4-3CFB-4C4B-BB26-B82E8F460FBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "获取要素并且设置显示隐藏", "03、元素的添加和删除及属性样式设置\获取要素并且设置显示隐藏\获取要素并且设置显示隐藏.csproj", "{22E103F4-3CFB-4C4B-BB26-B82E8F460FBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "气泡与标注", "3、元素的添加和删除及属性样式设置\气泡与标注\气泡与标注.csproj", "{AD0EB48E-BE17-45A9-8765-C89E57548CA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "气泡与标注", "03、元素的添加和删除及属性样式设置\气泡与标注\气泡与标注.csproj", "{AD0EB48E-BE17-45A9-8765-C89E57548CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "几何要素添加", "3、元素的添加和删除及属性样式设置\几何要素添加\几何要素添加.csproj", "{21AA5582-4AC8-4A29-9BCB-3B5EC4C687A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "几何要素添加", "03、元素的添加和删除及属性样式设置\几何要素添加\几何要素添加.csproj", "{21AA5582-4AC8-4A29-9BCB-3B5EC4C687A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04、HUD以及视角设置", "04、HUD以及视角设置", "{3B9ECBB6-DFBC-4592-9C63-4DCDB8871574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperateObject", "3、元素的添加和删除及属性样式设置_几何对象添加\几何对象添加\OperateObject.csproj", "{47AE5F9F-24B7-4101-8427-BB0EDCA88CEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperateObject", "03、元素的添加和删除及属性样式设置_几何对象添加\几何对象添加\OperateObject.csproj", "{47AE5F9F-24B7-4101-8427-BB0EDCA88CEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HUD", "4、HUD以及视角设置\HUD\HUD.csproj", "{03CE23E7-CF29-428B-BBFE-35FE72C6B2D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HUD", "04、HUD以及视角设置\HUD\HUD.csproj", "{03CE23E7-CF29-428B-BBFE-35FE72C6B2D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "地图全屏", "4、HUD以及视角设置\地图全屏\地图全屏.csproj", "{6CA1BFBA-CEC4-4A65-B147-21A47BF97C46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "地图全屏", "04、HUD以及视角设置\地图全屏\地图全屏.csproj", "{6CA1BFBA-CEC4-4A65-B147-21A47BF97C46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "视角设置", "4、HUD以及视角设置\视角设置\视角设置.csproj", "{009655F3-4FF4-4CF8-B3BD-7AC795F62E3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "视角设置", "04、HUD以及视角设置\视角设置\视角设置.csproj", "{009655F3-4FF4-4CF8-B3BD-7AC795F62E3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "三维立体", "4、HUD以及视角设置\三维立体\三维立体.csproj", "{753E48BC-F24A-4A2A-91D6-3CDA3E9A200B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "三维立体", "04、HUD以及视角设置\三维立体\三维立体.csproj", "{753E48BC-F24A-4A2A-91D6-3CDA3E9A200B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "飞行模式", "4、HUD以及视角设置\沿线飞行\飞行模式.csproj", "{FA235742-B9AF-4D96-B350-C09611D0E546}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "飞行模式", "04、HUD以及视角设置\沿线飞行\飞行模式.csproj", "{FA235742-B9AF-4D96-B350-C09611D0E546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "界面文字", "4、HUD以及视角设置\界面文字\界面文字.csproj", "{E8D64E48-F9C2-4EB1-B45E-E4C5ACAD1720}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "界面文字", "04、HUD以及视角设置\界面文字\界面文字.csproj", "{E8D64E48-F9C2-4EB1-B45E-E4C5ACAD1720}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05、绘制模式", "05、绘制模式", "{134CBB3D-C0F3-450C-B350-0376C20C1E6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "绘制模式", "5、绘制模式\绘制模式\绘制模式.csproj", "{DBC5C350-0D19-4506-AD30-F58924D03189}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "绘制模式", "05、绘制模式\绘制模式\绘制模式.csproj", "{DBC5C350-0D19-4506-AD30-F58924D03189}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06、工程文件的打开和保存", "06、工程文件的打开和保存", "{CFD8A8AC-7783-4670-BB0C-A9F834686603}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工程文件的打开和保存", "6、工程文件的打开和保存\工程文件的打开和保存\工程文件的打开和保存.csproj", "{8C0554A1-076F-4A0B-BBF4-80A159A5BFCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工程文件的打开和保存", "06、工程文件的打开和保存\工程文件的打开和保存\工程文件的打开和保存.csproj", "{8C0554A1-076F-4A0B-BBF4-80A159A5BFCA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07、连接服务器", "07、连接服务器", "{CCEC3AA1-A621-41B6-9465-2FAB413332F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "连接服务器", "7、连接服务器\连接服务器\连接服务器.csproj", "{27D30CAF-72C3-4740-B65E-196B47349AB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "连接服务器", "07、连接服务器\连接服务器\连接服务器.csproj", "{27D30CAF-72C3-4740-B65E-196B47349AB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08、测量", "08、测量", "{E4EDAE55-9B79-4365-B57E-EFE9F589F346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测量", "8、测量\测量\测量.csproj", "{A4617F35-9CEA-431A-B211-D23287A4055B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测量", "08、测量\测量\测量.csproj", "{A4617F35-9CEA-431A-B211-D23287A4055B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09、事件机制", "09、事件机制", "{1ED3C22C-6CDD-4FF0-AD9E-152FC057624E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件机制", "9、事件机制\事件机制\事件机制.csproj", "{397F0B49-65D2-49B0-AB9C-EAC8A6FF031A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件机制", "09、事件机制\事件机制\事件机制.csproj", "{397F0B49-65D2-49B0-AB9C-EAC8A6FF031A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10、分析", "10、分析", "{53F934A2-4002-47A7-ABB7-A0838F52C86B}"
 EndProject
