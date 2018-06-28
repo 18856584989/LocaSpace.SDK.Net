@@ -1,6 +1,7 @@
 # LocaSpace.SDK.Net
 -------------
 
+![travis-ci](https://travis-ci.org/locaspace/LocaSpace.SDK.Net.svg?branch=master)
 ![NuGet](https://img.shields.io/nuget/v/LocaSpace.SDK.Net.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/locaspace/LocaSpace.SDK.Net.svg)
 
