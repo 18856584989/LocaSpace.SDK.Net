@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>输出</RootNamespace>
-    <AssemblyName>影像拼接以及无效值过滤</AssemblyName>
+    <AssemblyName>数据处理</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -96,19 +96,46 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmDataJoinDom.cs">
+    <Compile Include="FormBatchMergeRaster.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmDataJoinDom.designer.cs">
-      <DependentUpon>FrmDataJoinDom.cs</DependentUpon>
+    <Compile Include="FormBatchMergeRaster.designer.cs">
+      <DependentUpon>FormBatchMergeRaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBatchMergeTerrain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBatchMergeTerrain.designer.cs">
+      <DependentUpon>FormBatchMergeTerrain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBatchRasterImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBatchRasterImport.designer.cs">
+      <DependentUpon>FormBatchRasterImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBatchTerrainImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBatchTerrainImport.designer.cs">
+      <DependentUpon>FormBatchTerrainImport.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmDataJoinDom.resx">
-      <DependentUpon>FrmDataJoinDom.cs</DependentUpon>
+    <EmbeddedResource Include="FormBatchMergeRaster.resx">
+      <DependentUpon>FormBatchMergeRaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBatchMergeTerrain.resx">
+      <DependentUpon>FormBatchMergeTerrain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBatchRasterImport.resx">
+      <DependentUpon>FormBatchRasterImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBatchTerrainImport.resx">
+      <DependentUpon>FormBatchTerrainImport.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

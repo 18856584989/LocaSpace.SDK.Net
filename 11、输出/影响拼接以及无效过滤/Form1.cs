@@ -39,7 +39,7 @@ namespace 输出
         /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
-            FrmDataJoinDom frm = new FrmDataJoinDom(globeControl1);
+            FormBatchMergeRaster frm = new FormBatchMergeRaster();
             frm.Show(this);
         }
 
@@ -76,6 +76,21 @@ namespace 输出
                 pntPostion.Z = dSize > 20000000 ? dSize / 4 : dSize;
                 globeControl1.Globe.FlyToPosition(pntPostion, EnumAltitudeMode.RelativeToGround);
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new FormBatchMergeTerrain().Show(this);
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            new FormBatchRasterImport().Show(this);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            new FormBatchTerrainImport().Show(this);
         }
     }
 }
